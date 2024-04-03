@@ -12,3 +12,20 @@ div #btn{
   justify-content: center;
 
 }
+h1{
+  display: flex;
+  justify-content: center;
+
+}
+label:hover{
+  color:red;
+  cursor:pointer;
+}
+button:hover{
+  
+  background-color:gray;
+  cursor:pointer;
+}
+button{
+  border-radius: 10px;
+}
