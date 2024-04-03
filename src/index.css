@@ -1,0 +1,14 @@
+body{
+  display: flex;
+  justify-content: center;
+ 
+}
+form{
+  border: solid black;
+  padding: 20px
+}
+div #btn{
+  display: flex;
+  justify-content: center;
+
+}
